@@ -36,7 +36,7 @@
 
 ### ✨ Highlight Projects
 
-- 💡 **Cook & Culture** – [Visit Site](#) | React + Firebase + Animations  
+- 💡 **Cook & Culture** – [Visit Site](https://capstone-project-murex-three.vercel.app/) | React + Firebase + Animations  
 - 🧩 **Student Wellness App** – Survey, ChatBot, and Resources  
 - 📊 **Tech Analysis Report** – India-Israel: Access, Collaboration & Market
 

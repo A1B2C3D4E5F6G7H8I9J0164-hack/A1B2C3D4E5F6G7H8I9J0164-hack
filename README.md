@@ -16,6 +16,11 @@
 - 👥 Selected for **Dev Club @ Newton School of Technology**  
 - 💡 Contributor to open-source projects & community initiatives  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-PR%20Merged-orange?style=for-the-badge&logo=hacktoberfest" />
+</p>
+
 ---
 
 ### 📫 Connect with Me
@@ -34,12 +39,12 @@
 ### 🧮 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Rana09&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rana09&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=A1B2C3D4E5F6G7H8I9J0164-hack&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=A1B2C3D4E5F6G7H8I9J0164-hack&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rana09&layout=compact&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1B2C3D4E5F6G7H8I9J0164-hack&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -63,7 +68,7 @@
 
 <p align="center">
   <img src="https://hoplin-badges.vercel.app/api/badge?name=Aditya%20Rana&theme=dark" alt="Hoplin Profile Badge"/>
-  <img src="https://hoplin-badges.vercel.app/api/contributions?username=Aditya-Rana09&theme=dark" alt="Hoplin Contributions"/>
+  <img src="https://hoplin-badges.vercel.app/api/contributions?username=A1B2C3D4E5F6G7H8I9J0164-hack&theme=dark" alt="Hoplin Contributions"/>
 </p>
 
 ---

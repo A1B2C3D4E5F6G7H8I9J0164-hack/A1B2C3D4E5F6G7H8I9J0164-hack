@@ -66,10 +66,10 @@
 
 ### 🪩 Hoplin Badges
 
-<p align="center">
-  <img src="https://hoplin-badges.vercel.app/api/badge?name=Aditya%20Rana&theme=dark" alt="Hoplin Profile Badge"/>
-  <img src="https://hoplin-badges.vercel.app/api/contributions?username=A1B2C3D4E5F6G7H8I9J0164-hack&theme=dark" alt="Hoplin Contributions"/>
-</p>
+### 🏅 Holopin Badges
+
+[![Aditya Rana's Holopin Badges](https://raw.githubusercontent.com/A1B2C3D4E5F6G7H8I9J0164-hack/A1B2C3D4E5F6G7H8I9J0164-hack/main/holopin.png)](https://holopin.io/@a1b2c3d4e5f6g7h8i9j0164hack)
+
 
 ---
 

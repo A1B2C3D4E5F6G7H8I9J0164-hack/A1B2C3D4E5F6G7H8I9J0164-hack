@@ -1,18 +1,30 @@
 <h1 align="center">Hi there 👋, I'm Aditya Rana</h1>
-
-- 🌱 I’m currently learning **ReactJS, Firebase & Next.js**
-- 🔭 I’m working on a capstone project called **Cook & Culture**
-- 💬 Ask me about **Web Dev, JavaScript, React**
-- ⚡ Fun fact: I love designing modern UI with Tailwind & framer-motion
+<h3 align="center">🚀 Web Developer | React Enthusiast | UI Designer</h3>
 
 ---
 
-### 📫 Connect with me
+- 🌱 Currently learning **ReactJS, Firebase & Next.js**
+- 🔭 Working on my capstone project — **Cook & Culture**
+- 💬 Ask me about **Web Development, JavaScript, React, and Tailwind**
+- ⚡ Fun fact: I love crafting smooth UI with **Framer Motion** and **modern design systems**
+
+---
+
+### 🏆 Achievements & Contributions
+
+- 🎯 Completed my first **Pull Request** during [Hacktoberfest 2024](https://hacktoberfest.com/) 💻  
+- 👥 Selected for **Dev Club @ Newton School of Technology**  
+- 💡 Contributor to open-source projects & community initiatives  
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/aditya-rana-187276304/)" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-rana-187276304/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="adityarana09102006@gmail.com" target="_blank">
+  <a href="mailto:adityarana09102006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
 </p>
@@ -21,25 +33,39 @@
 
 ### 🧮 GitHub Stats
 
-<p align="left">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" />
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Rana09&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Rana09&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rana09&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🧠 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,figma,firebase,github" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,figma,firebase,github,express,prisma,nodejs,vscode" />
 
 ---
 
 ### ✨ Highlight Projects
 
-- 💡 **Cook & Culture** – [Visit Site](https://capstone-project-murex-three.vercel.app/) | React + Firebase + Animations  
+- 💡 **Cook & Culture** – [Visit Site](https://capstone-project-murex-three.vercel.app/)  
+  _React + Firebase + Framer Motion + Tailwind_  
 - 🧩 **Student Wellness App** – Survey, ChatBot, and Resources  
-- 📊 **Tech Analysis Report** – India-Israel: Access, Collaboration & Market
+- 📊 **Tech Analysis Report** – _India-Israel: Access, Collaboration & Market_
 
 ---
 
-> _“Consistency is more important than perfection.”_
+### 🪩 Hoplin Badges
+
+<p align="center">
+  <img src="https://hoplin-badges.vercel.app/api/badge?name=Aditya%20Rana&theme=dark" alt="Hoplin Profile Badge"/>
+  <img src="https://hoplin-badges.vercel.app/api/contributions?username=Aditya-Rana09&theme=dark" alt="Hoplin Contributions"/>
+</p>
+
+---
+
+> _“Consistency is more important than perfection.”_ ✨

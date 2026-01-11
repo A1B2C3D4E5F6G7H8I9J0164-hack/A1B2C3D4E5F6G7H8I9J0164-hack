@@ -48,9 +48,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=a1b2c3d4e5f6g7h8i9j0164-hack&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=a1b2c3d4e5f6g7h8i9j0164-hack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a1b2c3d4e5f6g7h8i9j0164-hack&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=A1B2C3D4E5F6G7H8I9J0164-hack&show_icons=true&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=A1B2C3D4E5F6G7H8I9J0164-hack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1B2C3D4E5F6G7H8I9J0164-hack&theme=dark&hide_border=false&layout=compact)
 
 
 ---

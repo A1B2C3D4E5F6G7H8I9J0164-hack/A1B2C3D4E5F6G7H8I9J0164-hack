@@ -41,7 +41,7 @@
 
 <!-- 🔥 CENTER IMAGE SECTION -->
 <p align="center">
-  <img src="[assets/holopin.png](https://chatgpt.com/backend-api/estuary/content?id=file_000000006a307208a5026ad7eb0da2e8&ts=491143&p=fs&cid=1&sig=964cb7b61ed8854023a1f3c2db6cd94d8364e1b783207d07142d123291a1bcf3&v=0)" alt="Holopin Badges" width="800"/>
+  <img src="Screenshot 2026-01-11 at 13.26.06.png" alt="Holopin Badges" width="800"/>
 </p>
 <p align="center"><i>Open Source Journey • Holopin Badges</i></p>
 

@@ -50,9 +50,8 @@
 
 ---
 
-## 📈 Contribution Graph:
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A1B2C3D4E5F6G7H8I9J0164-hack&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/A1B2C3D4E5F6G7H8I9J0164-hack)
-
+## 📅 Contribution Calendar:
+![GitHub Contribution Grid](https://ghchart.rshah.org/0d1117/A1B2C3D4E5F6G7H8I9J0164-hack)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=A1B2C3D4E5F6G7H8I9J0164-hack&icon=0&color=0)](https://visitcount.itsvg.in)
